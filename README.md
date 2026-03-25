@@ -99,4 +99,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ---
-Built with ❤️ by [Anisha Suman](https://github.com/anishasuman)
+Built with ❤️ by [Ashish Goswami](https://github.com/ashishgoswami07)
